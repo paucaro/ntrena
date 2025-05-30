@@ -8,3 +8,7 @@ import com.bourbon.ntrena.R
 val primary: Color
     @Composable
     get() = colorResource(id = R.color.primary)
+
+val secondary: Color
+    @Composable
+    get() = colorResource(id = R.color.secondary)
